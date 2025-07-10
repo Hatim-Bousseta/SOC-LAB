@@ -1,7 +1,7 @@
 # SOC-LAB
 A complete SOC lab with Wazuh, ELK, Zeek, pfSense, Snort, TheHive, Cortex, MISP, and Shuffle.
 
-# 🛡️ Advanced Security Operation Center (SOC) Lab
+#  Advanced Security Operation Center (SOC) Lab
 
 This lab is a fully functional, open-source-based Security Operation Center (SOC) environment designed for learning, simulation, and hands-on practice in threat detection, investigation, and response.
 
@@ -11,7 +11,7 @@ The project integrates a wide range of tools and platforms to simulate realistic
 
 ---
 
-## 🧩 Architecture Components
+##  Architecture Components
 
 ### 🔸 Endpoints (Wazuh Agents)
 - **Windows Server 2016** – Domain Controller
@@ -54,7 +54,7 @@ The project integrates a wide range of tools and platforms to simulate realistic
 
 ---
 
-## 🚀 Goals & Use Cases
+## Goals & Use Cases
 
 - Simulate real-world SOC environments
 - Practice blue team monitoring and incident response
@@ -64,13 +64,13 @@ The project integrates a wide range of tools and platforms to simulate realistic
 
 ---
 
-## 📸 Screenshots & Architecture
+## Screenshots & Architecture
 
 (Insert diagrams or screenshots here if available)
 
 ---
 
-## 🛠️ Future Improvements
+##  Future Improvements
 
 - Add MITRE ATT&CK correlation
 - Integrate YARA or Suricata
@@ -78,18 +78,12 @@ The project integrates a wide range of tools and platforms to simulate realistic
 
 ---
 
-## 📚 References
 
-- [Wazuh Documentation](https://documentation.wazuh.com/)
-- [Shuffle SOAR](https://shuffler.io/)
-- [TheHive Project](https://thehive-project.org/)
-- [MISP Project](https://www.misp-project.org/)
-- [Cortex Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers)
 
 ---
 
-## 🔐 Author
+## Author
 
-Built by [Your Name] – Cybersecurity Enthusiast | Blue Team | Threat Hunter
+Built by BOUSSETA HATIM 
 
 
