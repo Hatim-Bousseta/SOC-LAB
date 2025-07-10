@@ -8,11 +8,11 @@ A complete SOC lab with Wazuh, ELK, Zeek, pfSense, Snort, TheHive, Cortex, MISP,
 ![SOC Architecture](Architecture.png)
 
 
-## 📄 Project Report
+## Project Report
 
 You can read the full SOC lab documentation here:
 
-👉 [SOC_Lab_Report.pdf](Rapport.pdf)
+---> [SOC_Lab_Report.pdf](Rapport.pdf)
 
 
 #  Advanced Security Operation Center (SOC) Lab
