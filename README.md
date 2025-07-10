@@ -20,9 +20,8 @@ The project integrates a wide range of tools and platforms to simulate realistic
 - **Parrot OS Client** – Linux workstation for diversity
 
 ### 🔸 Monitoring & Analysis
-- **Wazuh Server** – Agent management and log analysis
+- **Wazuh** – Agent management and log analysis
 - **ELK Stack (ElasticSearch, Logstash, Kibana)** – Visual dashboard and storage
-- **Wazuh Indexer & Dashboard** – Built-in visualization and analysis
 
 ### 🔸 Network Security
 - **pfSense Firewall**
