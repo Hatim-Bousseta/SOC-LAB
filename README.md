@@ -1,11 +1,18 @@
 # SOC-LAB
 A complete SOC lab with Wazuh, ELK, Zeek, pfSense, Snort, TheHive, Cortex, MISP, and Shuffle.
 
-## 📸 Screenshots & Architecture
+## Architecture
 
 ### SOC Architecture Diagram
 
 ![SOC Architecture](Architecture.png)
+
+
+## 📄 Project Report
+
+You can read the full SOC lab documentation here:
+
+👉 [SOC_Lab_Report.pdf](rapport.pdf)
 
 
 #  Advanced Security Operation Center (SOC) Lab
