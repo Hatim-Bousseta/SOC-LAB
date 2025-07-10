@@ -1,6 +1,13 @@
 # SOC-LAB
 A complete SOC lab with Wazuh, ELK, Zeek, pfSense, Snort, TheHive, Cortex, MISP, and Shuffle.
 
+## 📸 Screenshots & Architecture
+
+### SOC Architecture Diagram
+
+![SOC Architecture](Architecture.png)
+
+
 #  Advanced Security Operation Center (SOC) Lab
 
 This lab is a fully functional, open-source-based Security Operation Center (SOC) environment designed for learning, simulation, and hands-on practice in threat detection, investigation, and response.
@@ -62,10 +69,6 @@ The project integrates a wide range of tools and platforms to simulate realistic
 - Test offensive security techniques in a safe environment
 
 ---
-
-## Screenshots & Architecture
-
-(Insert diagrams or screenshots here if available)
 
 ---
 
